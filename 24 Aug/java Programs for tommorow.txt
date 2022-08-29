@@ -1,0 +1,2 @@
+java program to remove duplicate entries
+java program to sort in descending order and find largest and smallest
